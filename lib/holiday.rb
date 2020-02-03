@@ -66,7 +66,7 @@ holiday_hash.each do |season, h|
   
   supply_str - array.join(", ")
   puts " #{new_str}: #{supply_str}"
-  
+end
 end
 end
 def all_holidays_with_bbq(holiday_hash)
